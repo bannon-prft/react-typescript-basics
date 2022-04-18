@@ -1,0 +1,24 @@
+{
+  "name": "react-complete-guide-ts-basics",
+  "description": "This project is a practice project from [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)",
+  "version": "1.0.0",
+  "main": "no-typescript.js",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bannon-tanner/react-typescript-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bannon-tanner/react-typescript-basics/issues"
+  },
+  "homepage": "https://github.com/bannon-tanner/react-typescript-basics#readme"
+}
